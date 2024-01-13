@@ -1,1 +1,1 @@
-# web-gallery
+# sun-gallery
